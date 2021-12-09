@@ -1,6 +1,6 @@
 # Api Test With Rest Assured
 
-![](../../../../../../Downloads/Screencast 2021-12-09 17-30-50.gif)
+Todo(add gift)
 
 ## Create New Repo in Github
 
