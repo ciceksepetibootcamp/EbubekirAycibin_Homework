@@ -1,6 +1,6 @@
 # Api Test With Rest Assured
 
-![](../../../../../../Downloads/Screencast%202021-12-09%2017-30-50.gif)
+![.](../../../../../../Downloads/Screencast%202021-12-09%2017-30-50.gif)
 
 ## Create New Repo in Github
 
