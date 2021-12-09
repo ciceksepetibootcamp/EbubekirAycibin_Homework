@@ -2,7 +2,7 @@
 
 ![](../../../../../../Downloads/Screencast%202021-12-09%2017-30-50.gif)
 
-##Create New Repo in Github
+## Create New Repo in Github
 
 #### Given
 - Authorization Bearer Token
@@ -14,7 +14,7 @@
 
 - Should Be Status Code 201
 
-##Get List Created New Repo in Github
+## Get List Created New Repo in Github
 
 #### Given
 - Authorization Bearer Token
@@ -27,7 +27,7 @@
 
 - Should Be Status Code 200
 
-##Delete Created New Repo in Github
+## Delete Created New Repo in Github
 
 #### Given
 - Authorization Bearer Token
