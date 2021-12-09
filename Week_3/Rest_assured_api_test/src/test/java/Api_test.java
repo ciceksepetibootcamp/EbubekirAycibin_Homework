@@ -21,7 +21,7 @@ public class Api_test {
                 .post(baseURI + "/user/repos")
                 .then()
                 .statusCode(201);
-             //   .time(lessThan(5000L));
+                .time(lessThan(5000L));
     }
 
     @Test
@@ -31,15 +31,14 @@ public class Api_test {
                 .when()
                 .get(baseURI + "/user/repos")
                 .then()
-                .body("name", equalTo("CreateTestRepo"))
+                .body("name[0]", equalTo("CreateTestRepo"))
                 .statusCode(200);
-               // .time(lessThan(5000L));
+                .time(lessThan(5000L));
     }
     @Test
     public void deleteCreatedRepo()  {
         given()
                 .headers("Authorization", "Bearer " + token)
-           //     .contentType(ContentType.JSON)
                 .when()
                 .delete(baseURI + "/repos/bekiraycibin/CreateTestRepo")
                 .then()
