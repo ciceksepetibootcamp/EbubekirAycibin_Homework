@@ -6,7 +6,7 @@
 
     - Homework 2
 
-       - [X] Selenium Test Cases for CicekSepeti.com
+       - [X] [Selenium Test Cases for CicekSepeti.com](https://github.com/ciceksepetibootcamp/EbubekirAycibin_Homework/tree/main/Week_1/Homework-2)
 2. Week_2
 
     - Homework 1
