@@ -6,7 +6,7 @@
 
     - Homework 2
 
-       - [ ] Selenium Test Cases for CicekSepeti.com
+       - [X] Selenium Test Cases for CicekSepeti.com
 2. Week_2
 
     - Homework 1
