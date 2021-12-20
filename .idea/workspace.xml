@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7994baed-a0ad-48af-a1a4-56fc68dd1376" name="Changes" comment="update test_demo.java">
+      <change afterPath="$PROJECT_DIR$/Week_4/dotnet-ciceksepeti/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="6e769cc8-6166-4e63-af40-82e401d7cc44" />
+        <option name="url" value="git@github.com:/bekiraycibin/EbubekirAycibin_Homework.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+    <option name="namespace" value="default" />
+  </component>
+  <component name="ProjectId" id="21vLzZAYbbtXzJtYmIH6izdUlyr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="go.formatter.settings.were.checked" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week_3/Homework_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7994baed-a0ad-48af-a1a4-56fc68dd1376" name="Changes" comment="" />
+      <created>1638816879495</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638816879495</updated>
+      <workItem from="1638816884508" duration="176000" />
+      <workItem from="1638879880172" duration="1341000" />
+      <workItem from="1638901202279" duration="2104000" />
+      <workItem from="1639053275007" duration="263000" />
+      <workItem from="1639053609119" duration="7496000" />
+      <workItem from="1639479629147" duration="2455000" />
+      <workItem from="1639586860136" duration="176000" />
+      <workItem from="1639684667132" duration="316000" />
+      <workItem from="1640006909307" duration="18000" />
+      <workItem from="1640007094741" duration="43000" />
+      <workItem from="1640007158618" duration="40000" />
+      <workItem from="1640007679183" duration="64000" />
+      <workItem from="1640007765392" duration="287000" />
+    </task>
+    <task id="LOCAL-00001" summary="add Discord.postman_collection.json file">
+      <created>1638880284179</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1638880284179</updated>
+    </task>
+    <task id="LOCAL-00002" summary="test commit">
+      <created>1638902333152</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1638902333152</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add rest assured homework">
+      <created>1639054113892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639054113892</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update rest assured homework">
+      <created>1639054706668</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639054706668</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update README.md">
+      <created>1639073002341</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639073002341</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README.md">
+      <created>1639073644119</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639073644119</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update README.md">
+      <created>1639074714922</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639074714922</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update README.md">
+      <created>1639074795503</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639074795503</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update README.md">
+      <created>1639075021720</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639075021720</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update README.md">
+      <created>1639075161565</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639075161565</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update README.md">
+      <created>1639075437213</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1639075437213</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update README.md">
+      <created>1639075852784</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1639075852784</updated>
+    </task>
+    <task id="LOCAL-00013" summary="add week-1 homework about selenium">
+      <created>1639479768094</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1639479768094</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update README.md">
+      <created>1639479886187</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1639479886187</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update README.md">
+      <created>1639479926280</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1639479926280</updated>
+    </task>
+    <task id="LOCAL-00016" summary="update test_demo.java">
+      <created>1639486002793</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1639486002793</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="add Discord.postman_collection.json file" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="add rest assured homework" />
+    <MESSAGE value="update rest assured homework" />
+    <MESSAGE value="add week-1 homework about selenium" />
+    <MESSAGE value="update README.md" />
+    <MESSAGE value="update test_demo.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="update test_demo.java" />
+  </component>
+</project>

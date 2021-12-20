@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/cloudnesil/.dotnet/store/|arch|/|tfm|",
+      "/Users/cloudnesil/.nuget/packages"
+    ]
+  }
+}
