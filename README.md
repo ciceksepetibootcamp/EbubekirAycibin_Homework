@@ -23,3 +23,10 @@
     - Homework 2
 
       - [ ] BDD Test With Cucumber
+3. Week_4
+   - Homework 1
+
+      - [X] [Test Scenarios with .Net](https://github.com/ciceksepetibootcamp/EbubekirAycibin_Homework/tree/main/Week_4/dotnet-ciceksepeti)
+   - Homework 2
+
+      - [ ] Test Scenarios with .Net
