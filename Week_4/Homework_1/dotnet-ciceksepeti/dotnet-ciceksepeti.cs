@@ -28,8 +28,11 @@ public class dotnet_ciceksepeti {
     IWebElement productSelector = driver.FindElement(By.XPath("/html/body/main/div/div[4]/div[3]"));
     productSelector.Click();
     Thread.Sleep(1000);
-    driver.FindElement(By.CssSelector(".product__info__title")).Click();
-    Assert.That(driver.FindElement(By.CssSelector(".js-product-title")).Text, Is.EqualTo("Doğal Ahşap Kütükte Renkli Papatya Aranjmanı"));
+    IWebElement productTitle = driver.FindElement(By.CssSelector(".js-product-title"));
+    productTitle.Click();
+    Thread.Sleep(1000);
+    string productRealTitleName = "Doğal Ahşap Kütükte Renkli Papatya Aranjmanı";
+    Assert.That(productTitle.Text, Is.EqualTo(productRealTitleName));
   }
 [Test]
   public void addProductInBasket() {
