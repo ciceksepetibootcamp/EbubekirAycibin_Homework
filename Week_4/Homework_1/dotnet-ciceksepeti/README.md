@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/94717318/147266333-fb0ae3c9-c621-41ef-
 - Kategorilerden `Çiçek` Seç
 - Listelenenlerin Arasından `Doğal Ahşap Kütükte Renkli Papatya Aranjmanı` ürününü seç
 - Breadcrumb'dan Sırasıyla Çiçek ve Anasayfa Adımına  Tıkla
-- Anasayfa İçin URL Kontolü Yap
+- Anasayfaya Yönlen
 
 ## Senaryo-1: Sepete Ürün Ekleme
 - Çiçeksepeti.com Sitesine Giriş Yap
@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/94717318/147266333-fb0ae3c9-c621-41ef-
 - Listelenenlerin Arasından `Luxery Candle Lavanta Kokulu Mor Cam Mum` Ürününe Tıkla
 - Ürünün Detay Sayfasına Yönlen
 - Sepete Ekle
-- Sepette Olup Olmadığını Kontol Et
+- Ürünü Sepette Gör
  
 
 
