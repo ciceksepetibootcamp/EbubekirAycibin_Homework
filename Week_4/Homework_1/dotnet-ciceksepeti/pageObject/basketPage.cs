@@ -18,7 +18,7 @@ public class basketPage : basePage{
         IWebElement basketContainer = driver.FindElement(By.XPath("/html/body/main/div[1]"));
         WebDriverWait wait = new WebDriverWait(driver, System.TimeSpan.FromSeconds(8));
         wait.Until(driver => basketContainer.Displayed);
-        Assert.IsTrue(basketContainer.Text.Contains(expectedPoductName),"ürün sepette bulunmamakta");
+        Assert.IsTrue(basketContainer.Text.Contains(expectedPoductName));
 
   }
 
