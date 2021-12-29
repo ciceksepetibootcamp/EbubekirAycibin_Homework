@@ -22,7 +22,7 @@
       - [X] [API Test With REST Assured](https://github.com/ciceksepetibootcamp/EbubekirAycibin_Homework/tree/main/Week_3/Homework-1)
     - Homework 2
 
-      - [ ] BDD Test With Cucumber
+      - [X] [BDD Test With Cucumber](https://github.com/ciceksepetibootcamp/EbubekirAycibin_Homework/tree/main/Week_3/Homework-2)
 3. Week_4
    - Homework 1
 
