@@ -3,8 +3,8 @@ Feature: ciceksepeti.com Test Senaryoları
   Scenario: Kategorileden Ürün Seçme
     Given Çiçeksepeti.com Sitesine Giriş Yap
     Given Kategorilerden Çiçek Seç
-    Given Listelenenlerin Arasından `Doğal Ahşap Kütükte Renkli Papatya Aranjmanı` ürününü seç
-    Given Ürün Detay Sayfasına Yönlen
+    When  Listelenenlerin Arasından `Doğal Ahşap Kütükte Renkli Papatya Aranjmanı` ürününü seç
+    Then  Ürün Detay Sayfasına Yönlen
 
   Scenario: Seçilen Üründen Breadcrumb İle Anasayfaya Yönlenme
     Given Çiçeksepeti.com Sitesine Giriş Yap
